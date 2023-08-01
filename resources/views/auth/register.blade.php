@@ -34,10 +34,11 @@
                 <option value="5">Costa Rica</option>
                 <option value="6">Ecuador</option>
                 <option value="7">México</option>
-                <option value="8">Perú</option>
-                <option value="9">Reública Dominicana</option>
-                <option value="10">Uruguay</option>
-                <option value="11">Venezuela</option>
+                <option value="8">Paraguay</option>
+                <option value="9">Perú</option>
+                <option value="10">Reública Dominicana</option>
+                <option value="11">Uruguay</option>
+                <option value="12">Venezuela</option>
             </select>
         </div>
 
